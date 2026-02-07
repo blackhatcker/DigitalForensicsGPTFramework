@@ -15,8 +15,8 @@ Instead, report privately via one of the following channels:
 - Preferred method when enabled.
 
 2) **Email (if you maintain it)**
-- Send to: `security@YOURDOMAIN` (replace with your address)
-- Subject: `SECURITY: ForensicGPT vulnerability report`
+- Send to: `customer.service@lyonnfiurex.com`
+- Subject: `SECURITY: ForensicGPT Framework vulnerability report`
 
 Include:
 - A clear description of the issue and impact.
