@@ -1,7 +1,7 @@
-ForensicGPT (Verification-Grade Forensic Assistant UI)
-Copyright (c) 2026 <YOUR_ORG_NAME>
+ForensicGPT Framework (Verification-Grade Forensic Assistant UI)
+Copyright (c) 2026 Lyon & Fiurex LLC Group
 
-This product includes software developed by <YOUR_ORG_NAME> and contributors.
+This product includes software developed by Lyon & Fiurex LLC Group and contributors.
 
 -------------------------------------------------------------------------------
 OpenAI / ChatGPT Integration Notice
